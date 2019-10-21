@@ -1,3 +1,5 @@
 addedthirds
 
 merging commit
+
+hello new method of merging
