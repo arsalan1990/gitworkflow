@@ -9,4 +9,4 @@ __Double underscore gives bold__
 
 > Hello there this is new episode
 
-this 'code' is written by me
+this `code` is written by me
