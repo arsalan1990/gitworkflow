@@ -2,5 +2,7 @@
 
 ### Third Heading
 
-__hellow world__
-**hellow world**
+__Double underscore gives bold__
+**double aesterick gives bold**
+
+*single aesterik give italic*
