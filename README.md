@@ -2,5 +2,5 @@
 
 ### Third Heading
 
-__ hellow world __
-** hellow world **
+__hellow world__
+**hellow world**
